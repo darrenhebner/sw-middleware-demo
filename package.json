@@ -1,0 +1,10 @@
+{
+  "name": "sw-persistence-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Darren Hebner",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^1.9.1"
+  }
+}

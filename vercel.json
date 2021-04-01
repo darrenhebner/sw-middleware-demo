@@ -1,0 +1,7 @@
+{
+  "public": true,
+  "rewrites": [
+    {"source": "/sw", "destination": "/public/sw.js"},
+    {"source": "/(.*)", "destination": "/api/server.ts"}
+  ]
+}
